@@ -1,2 +1,2 @@
 
-[**Utility functions from react core library**](https://github.com/NickLJudy/blog/issues/1#issue-1023774290)
+[**Utility functions from react core library**](https://gist.github.com/NickLJudy/6060418f87340df442c31455b93c5574)
